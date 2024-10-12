@@ -1,2 +1,2 @@
-# Bot-kun
+# Bot-js
 Description (optional)
